@@ -1,0 +1,2 @@
+import{Ba as i,qa as t,xa as n,ya as s}from"./chunk-MZ7E6M6W.js";var m=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-home"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),i(1,`Welcome to my website! And please excuse the appearnce, this is an early version of my site. Here I will show case projects I have worked on and other note worthy information about me. This site will be continously updated to become more polished.
+`),s())},encapsulation:2})};export{m as HomeComponent};
