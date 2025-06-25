@@ -1,4 +1,11 @@
-img{
+img {
     display: block;
     margin: auto;
+    width: 600px;
+    height: 400px;
+
+}
+
+.inline-block-child {
+    display: inline-block;
 }
